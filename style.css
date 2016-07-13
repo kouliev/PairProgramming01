@@ -1,0 +1,187 @@
+html, body{
+	padding: 0;
+	margin: 0;
+}
+.header{
+	background-color: darkblue;
+	width: 100%;
+	height: 20px;
+	padding: 0 auto;
+	margin: 0 auto;
+	position: relative;
+}
+.header p{
+	margin-top: 0;
+	padding-left: 10%;
+	color: white;
+}
+.icons{
+	margin-top: -2.4%;
+	margin-left: 80%;
+	color: white;
+}
+.icons i{
+	padding-right: 3%;
+}
+.menu{
+	width: 1365px;
+	height: 65px;
+	background-color: blue;
+}
+.menu img{
+	margin-left: 12%;
+	margin-top: 1%;
+}
+.menu ul{
+	margin-top: -3%;
+	color: white;
+	margin-left: 60%;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+	transition: all 0.5 ease;
+
+}
+.menu ul li a:hover{
+	height: 65px;
+    border-bottom: 1px solid white
+}
+.menu ul li{
+	display: inline-block;
+	list-style: none;
+	color: white;
+	text-decoration: none;
+}
+.block1{
+	width: 1365px;
+	height: 540px; 
+	background-color: black;
+	background-image: url(images/slider/home-slider-1.jpg);
+	background-size: cover;
+
+}
+.block1 h1{
+	text-align: center;
+	margin-top: 0;
+	padding-top: 14%;
+	color: white;
+}
+.block1 h3{
+	text-align: center;
+	margin-top: 0;
+	padding-top: 8px;
+	color: white;
+}
+.donate{
+	height: 50px;
+	width: 160px;
+	background-color: white;
+	color: blue;
+	font-size: 1em;
+	margin-top: 22px;
+	margin-left: 605px;
+	border-radius: 5%;
+}
+.yumru{
+	margin-top: 120px;
+	margin-left: 650px;
+	
+	
+}
+
+h2{
+	text-align: center;
+}
+.block2 {
+	width: 1365px;
+	height: 385px;
+
+}
+.block2 div{
+	background-color: blue;
+	float: left;
+	width: 262px
+	height: 360px;
+	margin-top: 20px;
+	margin-left: 100px;
+	color: white;
+}
+.block2 div h4{
+	text-align: center;
+	
+}
+.block2 img{
+    padding-left: 77px;
+    padding-top: 10px;
+}
+.block2 div p{
+	text-align: center;
+	width: 200px;
+
+
+}
+.block2 div input{
+	background-color: darkblue;
+	color: white;
+	margin-bottom: 2%;
+	margin-left: 50px;
+}
+.block3{
+	width: 1365px;
+	height: 520px;
+}
+.fight, .care{
+	width: 500px;
+	float: left;
+	margin-left: 100px;
+}
+.block3 div img{
+	width: 500px;
+
+}
+.qutu{
+	width: 500px;
+	height: 90px;
+	background-color: darkblue;
+	opacity: 0.6;
+	padding-right: -40px;
+	margin-top: -112px;
+	margin-left: 0px;
+}
+.qutu h3{
+	color: white;
+	text-align: center;
+	padding-top: 25px;
+}
+.qutu p{
+	color: white;
+	text-align: center;
+}
+
+.block4{
+	width: 1365px;
+	height: 385px;
+	background-color: red;
+}
+.block5{
+	width: 1365px;
+	height: 300px;
+	background-color: green;
+}
+.block6{
+	width: 1365px;
+	height: 40px;
+	background-color: darkblue;
+}
+.block7{
+	height: 300px;
+	width: 1365px;
+	background-color: blue;
+}
+.block8{
+	width: 1365px;
+	height: 20px;
+	background-color: darkblue;
+}
